@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="lib" path="C:/Users/SONY/Downloads/android-translate-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SONY/Downloads/google-api-translate-java-0.97.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SONY/Downloads/microsoft-translator-java-api-0.6.1-jar-with-dependencies (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/SONY/Downloads/microsoft-translator-java-api-0.6.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="/tess-two/bin/classes.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/SONY/Desktop/android/image-search-master/libs/android-smart-image-view-1.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/SONY/Desktop/android/image-search-master/libs/android-async-http-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SONY/Desktop/android/refrence libs/android-smart-image-view-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SONY/Desktop/android/refrence libs/google-api-client-1.11.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SONY/Desktop/android/refrence libs/google-api-client-android2-1.8.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SONY/Desktop/android/refrence libs/google-http-client-1.11.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SONY/Desktop/android/refrence libs/google-http-client-android3-1.11.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SONY/Desktop/android/refrence libs/google-http-client-jackson-1.12.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SONY/Desktop/android/refrence libs/google-oauth-client-1.10.1-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SONY/Desktop/android/refrence libs/gson-2.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SONY/Desktop/android/refrence libs/jackson-core-2.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SONY/Desktop/android/refrence libs/jackson-core-asl-1.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SONY/Desktop/android/refrence libs/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SONY/Desktop/android/refrence libs/protobuf-java-2.2.0.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
